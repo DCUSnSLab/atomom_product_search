@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/DCUSnSLab/atomom_product_server.git
+[submodule "atomom_product_android"]
+	path = atomom_product_android
+	url = https://github.com/DCUSnSLab/atomom_product_android
